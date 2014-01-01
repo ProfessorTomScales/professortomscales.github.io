@@ -1,0 +1,6 @@
+h1 {color:red; font:150% arial,sans-serif; font-weight:bold;}
+h2 {color:darkgreen; font:200% arial,sans-serif; font-weight:bold;background-color:beige;text-align:center;}
+h3 {color:white; font:250% arial,sans-serif; font-weight:bold; background-color:DarkSlateGray; height:48px;width:100%;}
+p {color:black; font:18px arial,sans-serif;}
+a {color:blue; font:18px arial,sans-serif;text-decoration:none;}
+body {background-color:#EEEEEE}

@@ -1,0 +1,56 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<general>
+<semester>"Fall 2013"</semester>
+<OHmonday>"<b>Monday: </b> 10:00 - 1:30"</OHmonday>
+<OHtuesday>"<b>Tuesday: </b>10:00 - 12:00, 1:30 - 2:00"</OHtuesday>
+<OHwednesday>"<b>Wednesday: </b>10:00 - 12:00"</OHwednesday>
+<OHthursday>"<b>Thursday: </b>10:00 - 12:00"</OHthursday>
+</general>
+
+<MTE_Dates>
+<MTEbegin>"September 23"</MTEbegin>
+<MTErefund>"September 26"</MTErefund>
+<MTEpenalty>"October 7"</MTEpenalty>
+<MTEweek1>"September 25"</MTEweek1>
+<MTEweek2>"October 2"</MTEweek2>
+<MTEweek3>"October 9"</MTEweek3>
+<MTEweek4>"October 16"</MTEweek4>
+</MTE_Dates>
+
+
+//MTE other;
+<MTEclassdates>"9/23/13 - 10/16/13"</MTEclassdates>
+<MTEclasstime>"Class Time: 1:30 - 2:50"</MTEclasstime>
+<MTEclasslocation>"Class location: Trailer TT4, Room 7"</MTEclasslocation>
+
+
+document.getElementById("MTEcompleting").innerHTML="A 75 or higher on either the pre-test or post-test for each of the chapters will count as completion of this class.";
+document.getElementById("MTErule1").innerHTML="No food or drinks, cell phone usage, or children allowed in class.";
+document.getElementById("MTErule2").innerHTML="Computers are not to be used for recreational use during class.";
+document.getElementById("MTErule3").innerHTML="You are responsible for completing your work on time. Come to class prepared.";
+document.getElementById("MTErule4").innerHTML="You are expected to conform to the College Honor Code.";
+document.getElementById("MTErule5").innerHTML="No late work will be accepted. No make up tests will be given.";
+document.getElementById("MTErule6").innerHTML="Regular attendance is expected and mandatory. Any absence will result in dismissal from the course.";
+
+//Sections
+document.getElementById("daysection").innerHTML=" - 01";
+document.getElementById("nightsection").innerHTML=" - 27";
+document.getElementById("section16").innerHTML=" - A7";
+document.getElementById("section8").innerHTML=" - A6";
+
+//16 week dates;
+document.getElementById("classdates16").innerHTML="8/21/13 - 12/10/13";
+document.getElementById("refund16").innerHTML="September 9";
+document.getElementById("penalty16").innerHTML="September 9";
+
+//First 8 week dates;
+document.getElementById("classdates8a").innerHTML="8/21/13 - 12/10/13";
+document.getElementById("refund8a").innerHTML="September 9";
+document.getElementById("penalty8a").innerHTML="September 9";
+
+//second 8 week dates;
+document.getElementById("classdates8b").innerHTML="8/21/13 - 12/10/13";
+document.getElementById("refund8b").innerHTML="September 9";
+document.getElementById("penalty8b").innerHTML="September 9";

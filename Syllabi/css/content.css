@@ -1,0 +1,11 @@
+h1 {color:DarkGreen; font:150% arial,sans-serif; font-weight:bold;}
+h2 {color:green; font:200% arial,sans-serif; font-weight:bold;}
+h3 {color:DarkSlateGray; font:250% arial,sans-serif; font-weight:bold;}
+p {color:black; font:18px arial,sans-serif;}
+a {color:black; font:18px arial,sans-serif;text-decoration:none;}
+
+#container {width:1260px;height:2200px;background-color:#EEEEEE;}
+#header {color:DarkSlateGray; text-align:left; font:250% arial,sans-serif; font-weight:bold; background-color:beige; height:48px;width:100%;}
+#menu {background-color:beige;;width:200px;float:left;text-align:left;min-height:800px}
+#content {background-color:#EEEEEE;width:1050px;float:left;text-align:left;min-height:800px;}
+#footer {background-color:#FFA500;clear:both;text-align:center;}
